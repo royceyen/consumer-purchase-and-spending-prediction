@@ -44,12 +44,6 @@ Given anonymized consumer data, the goal is to:
 - Filtering for buyers only (Task b) generally improved predictive accuracy across models.
 - Models trained on the full dataset (including non-buyers) exhibited greater variance and reduced performance, likely due to noise from zero-spending consumers.
 
-## 📈 Future Improvements
-
-- Incorporate feature importance analysis or SHAP explanation
-- Explore advanced ensembling techniques (stacking, boosting)
-- Investigate interaction effects or segmentation modeling
-
 ## 👤 Author
 
 Yi Hsiang (Royce) Yen  
