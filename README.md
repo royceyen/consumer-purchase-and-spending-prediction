@@ -14,7 +14,7 @@ Given anonymized consumer data, the goal is to:
 
 ## 📁 Dataset
 
-- Provided via course portal: anonymized customer mailing data
+- Anonymized customer mailing data
 - Features include demographic, behavioral, and campaign-specific variables
 - Two targets:
   - `Purchase`: whether the customer made a purchase (0/1)
